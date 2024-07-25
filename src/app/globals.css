@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url(../fonts/Oswald-Bold.ttf);
+  src: url(../fonts/Oswald-ExtraLight.ttf);
+  src: url(../fonts/Oswald-Light.ttf);
+  src: url(../fonts/Oswald-Light.ttf);
+  src: url(../fonts/Oswald-Medium.ttf);
+  src: url(../fonts/Oswald-Regular.ttf);
+  src: url(../fonts/Oswald-SemiBold.ttf);
+  src: url(../fonts/Oswald-VariableFont_wght.ttf);
+  font-weight: 100;
+  font-weight: 200;
+  font-weight: 300;
+  font-weight: 400;
+  font-weight: 500;
+  font-weight: 600;
+  font-weight: 700;
+  font-weight: 800;
+  font-weight: 900;
+  font-weight: bold;
+  font-weight: bolder;
+  font-weight: lighter;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ThuPhap';
+  src: url(../fonts/FzThuPhapTieuTu-Full.ttf);
+
+  font-weight: 100;
+  font-weight: 200;
+  font-weight: 300;
+  font-weight: 400;
+  font-weight: 500;
+  font-weight: 600;
+  font-weight: 700;
+  font-weight: 800;
+  font-weight: 900;
+  font-weight: bold;
+  font-weight: bolder;
+  font-weight: lighter;
+  font-weight: normal;
+  font-style: normal;
+}
